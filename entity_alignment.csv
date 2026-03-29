@@ -1,0 +1,28 @@
+label,ner_type,wikidata_id,wikidata_uri,match_label,confidence
+Porsche,ORG,Q40993,http://www.wikidata.org/entity/Q40993,Porsche,1.0
+Volkswagen,ORG,Q246,http://www.wikidata.org/entity/Q246,Volkswagen,1.0
+Mercedes-Benz,ORG,Q36008,http://www.wikidata.org/entity/Q36008,Mercedes-Benz,1.0
+BMW,ORG,Q26678,http://www.wikidata.org/entity/Q26678,BMW Group,0.8
+Stellantis,ORG,Q97439162,http://www.wikidata.org/entity/Q97439162,Stellantis,1.0
+Toyota,ORG,Q53268,http://www.wikidata.org/entity/Q53268,Toyota,1.0
+Nissan,ORG,Q270195,http://www.wikidata.org/entity/Q270195,Nissan-lez-Enserune,0.8
+Jaguar,ORG,Q30055,http://www.wikidata.org/entity/Q30055,Jaguar Cars,0.8
+Tata Motors,ORG,Q188514,http://www.wikidata.org/entity/Q188514,Tata Motors Ltd,0.8
+BYD,ORG,Q2608329,http://www.wikidata.org/entity/Q2608329,BYD Company,0.8
+Audi,ORG,Q482994,http://www.wikidata.org/entity/Q482994,album,0.6
+Ford,ORG,Q44294,http://www.wikidata.org/entity/Q44294,Ford Motor Company,0.8
+General Motors,ORG,Q81965,http://www.wikidata.org/entity/Q81965,General Motors,1.0
+Volvo,ORG,Q215293,http://www.wikidata.org/entity/Q215293,Volvo Cars,0.8
+Tesla,ORG,Q478214,http://www.wikidata.org/entity/Q478214,"Tesla, Inc.",0.8
+Oliver Blume,PERSON,Q101117735,http://www.wikidata.org/entity/Q101117735,Oliver Blume,1.0
+Carlos Tavares,PERSON,Q2939466,http://www.wikidata.org/entity/Q2939466,Carlos Tavares,1.0
+Ola Källenius,PERSON,Q19297571,http://www.wikidata.org/entity/Q19297571,Ola Källenius,1.0
+Akio Toyoda,PERSON,Q418622,http://www.wikidata.org/entity/Q418622,Akio Toyoda,1.0
+Oliver Zipse,PERSON,Q20243418,http://www.wikidata.org/entity/Q20243418,Oliver Zipse,1.0
+China,GPE,Q148,http://www.wikidata.org/entity/Q148,People's Republic of China,0.8
+Germany,GPE,Q183,http://www.wikidata.org/entity/Q183,Germany,1.0
+United States,GPE,Q30,http://www.wikidata.org/entity/Q30,United States,1.0
+France,GPE,Q142,http://www.wikidata.org/entity/Q142,France,1.0
+Japan,GPE,Q17,http://www.wikidata.org/entity/Q17,Japan,1.0
+United Kingdom,GPE,Q145,http://www.wikidata.org/entity/Q145,United Kingdom,1.0
+India,GPE,Q668,http://www.wikidata.org/entity/Q668,India,1.0

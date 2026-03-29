@@ -1,0 +1,63 @@
+@prefix auto: <http://automotive-crisis.org/kb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+auto:CarBrand a owl:Class ;
+    rdfs:label "Car Brand"@en ;
+    rdfs:subClassOf auto:Organization .
+
+auto:CarManufacturer a owl:Class ;
+    rdfs:label "Car Manufacturer"@en ;
+    rdfs:subClassOf auto:Organization .
+
+auto:GeopoliticalEntity a owl:Class ;
+    rdfs:label "Geopolitical Entity"@en ;
+    rdfs:subClassOf auto:Entity .
+
+auto:Person a owl:Class ;
+    rdfs:label "Person"@en ;
+    rdfs:subClassOf auto:Entity .
+
+auto:alignmentConfidence a owl:DatatypeProperty ;
+    rdfs:label "alignment confidence"@en ;
+    rdfs:range xsd:float .
+
+auto:fromSource a owl:DatatypeProperty ;
+    rdfs:label "from source URL"@en ;
+    rdfs:range xsd:anyURI .
+
+auto:manufacture a owl:ObjectProperty ;
+    rdfs:label "manufacture"@en ;
+    rdfs:domain auto:Organization ;
+    rdfs:range auto:Entity .
+
+auto:mentionFrequency a owl:DatatypeProperty ;
+    rdfs:label "mention frequency"@en ;
+    rdfs:range xsd:integer .
+
+auto:nerLabel a owl:DatatypeProperty ;
+    rdfs:label "NER label"@en ;
+    rdfs:range xsd:string .
+
+auto:ontology a owl:Ontology ;
+    rdfs:label "Automotive Crisis Knowledge Ontology"@en ;
+    rdfs:comment "Ontology for the automotive industry financial crisis KB (ESILV WDS 2026)"@en .
+
+auto:ownBy a owl:ObjectProperty ;
+    rdfs:label "own by"@en ;
+    rdfs:domain auto:Organization ;
+    rdfs:range auto:Organization .
+
+auto:subsidiary a owl:ObjectProperty ;
+    rdfs:label "subsidiary"@en ;
+    rdfs:domain auto:Organization ;
+    rdfs:range auto:Organization .
+
+auto:Entity a owl:Class ;
+    rdfs:label "Entity"@en .
+
+auto:Organization a owl:Class ;
+    rdfs:label "Organization"@en ;
+    rdfs:subClassOf auto:Entity .
+

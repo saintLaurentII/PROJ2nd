@@ -1,0 +1,347 @@
+entity,label,frequency,source_count,source_urls
+Porsche,ORG,38,5,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+Mercedes,ORG,26,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+China,GPE,25,8,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Stellantis,ORG,22,3,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+VW,ORG,22,4,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+BMW,ORG,19,3,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Volkswagen,ORG,19,3,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Jaguar,ORG,18,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+2026,DATE,16,6,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Toyota,ORG,15,2,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+2024,DATE,15,5,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+2025,DATE,15,7,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Germany,GPE,12,5,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+U.S.,GPE,11,3,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Year,DATE,10,7,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Ram,ORG,9,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+US,GPE,8,4,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+This Year,DATE,8,4,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Oliver Blume,PERSON,8,6,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Jeep,ORG,8,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+2023,DATE,7,3,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Annual,DATE,6,4,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Kronenberger,PERSON,6,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Dodge,ORG,6,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+The Year,DATE,6,3,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+A Year Ago,DATE,5,3,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+2027,DATE,5,2,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Previous Year,DATE,5,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The 2025 Financial Year,DATE,5,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+2030,DATE,5,3,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Porsche Ag,ORG,5,2,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Wednesday,DATE,4,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Blume,PERSON,4,4,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Bratzel,PERSON,4,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Tesla,ORG,4,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Last Year,DATE,4,2,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Källenius,PERSON,3,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Wolfsburg,GPE,3,2,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Audi,ORG,3,2,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+2035,DATE,3,3,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+A Few Years,DATE,3,3,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Jochen Breckner,PERSON,3,2,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Iea,ORG,3,2,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Volvo,ORG,3,2,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Matt,PERSON,3,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Ttac,ORG,3,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Filosa,ORG,3,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Years,DATE,3,3,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+The United States,GPE,3,3,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/ | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Today,DATE,3,3,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The 2030S,DATE,3,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Full-Year,DATE,2,2,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom= | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+December,DATE,2,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Mercedes-Benz,ORG,2,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Canada,GPE,2,2,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans | https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Antonio Filosa,PERSON,2,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Fourth-Quarter,DATE,2,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+A Year,DATE,2,2,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Monday,DATE,2,2,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Volkswagen Group’S,ORG,2,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+2019,DATE,2,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Friday,DATE,2,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+This Month,DATE,2,2,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/ | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Byd,ORG,2,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Antlitz,ORG,2,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+The Volkswagen Group’S,ORG,2,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Chrysler,ORG,2,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+The Coming Years,DATE,2,2,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+The Past Year,DATE,2,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Breckner,PERSON,2,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The First Half Of This Year,DATE,2,2,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html | https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Next Year,DATE,2,2,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+June,DATE,2,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The Executive Board,ORG,2,2,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+37 To 38 Billion Euros,MONEY,2,2,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Volkswagen Group,ORG,2,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+Automotive News,ORG,2,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+The Wall Street Journal,ORG,2,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+1.01 Billion Euros,MONEY,2,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Later This Year,DATE,2,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+18.16 Billion Euros,MONEY,2,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The Previous Year,DATE,2,2,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+2020,DATE,2,2,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/ | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+The European Automobile Manufacturers’ Association,ORG,2,2,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/ | https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Kommor,ORG,2,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+The Next Few Months,DATE,2,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+The Second Half Of 2025,DATE,2,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Gm,ORG,2,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Ford,ORG,2,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Moritz Kronenberger,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+The Third Quarter,DATE,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+The Trump Administration,ORG,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Fahrzeug-Vernetzung Und -Kommunikation,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Autumn,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Källenius,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+The First Nine Months Of The Past Year,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Around €7.81 Billion,MONEY,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+€3.88 Billion,MONEY,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+€98.5 Billion,MONEY,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Prior-Year,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Toluca,GPE,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Mexico,GPE,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+March,DATE,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Gon,ORG,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Trump,PERSON,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Las Vegas,GPE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Jaguar Land Rover Automotive Plc,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+India,GPE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Tata Motors,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+2008,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+The Last Several Years,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Andrea Carlucci,PERSON,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Toyota Europe’S,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+The End Of January,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Lg,ORG,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+About $26 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+$19.5 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+$6 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+This Time,DATE,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Windsor,GPE,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Ontario,GPE,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Lg Energy Solution,ORG,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Nyc,GPE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Detroit,GPE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Matt Posky,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+John,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+"Aug 05, 2025",DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Musk,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Gates,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Ms,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Ellison,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Experian Automotive,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+40 Years,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Infiniti,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+April,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+The Daily Mail,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+The Last 100 Years,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Ten Years Ago,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Berkshire,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Bezos,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Amazon,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Just 2 Years Earlier,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Nigelshiftright,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+- Lloyd Bonified,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Lloyd Bonified,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Arizona,GPE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Buickman,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Azfelix,GPE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Meh.,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+The United Kingdom’S,GPE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+The European Union,GPE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+A Mercedes-Benz,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+These Days,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+A Decade,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Akio Toyoda,PERSON,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+1997,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Mazda,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Subaru,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Acea,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+The First Eight Months Of The Year,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+The International Energy Agency,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Years Ago,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Norway,GPE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+The Norwegian Road Federation,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Ofv,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Bentley,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Ford Of Europe,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+The Executive Board For Finance,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Oracle,ORG,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Buffet,PERSON,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+The First Three Months Of The Year,DATE,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"250,000",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+January To March Of This Year,DATE,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+The End Of Last Year,DATE,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"102,550",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+Hyundai,ORG,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"$67,675",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+The First Quarter,DATE,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+2207,DATE,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+The Early 70S,DATE,1,1,https://www.thetruthaboutcars.com/cars/news-blog/jaguar-sales-drop-by-97-percent-in-europe-which-is-allegedly-fine-45129343
+Future Fiscal Years,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+The Volkswagen Group,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Up To 1.8 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Between 37 And 38 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Automotive,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Ifrs,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Two-Year,DATE,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"129,950",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"Over $7,500",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"178,850",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"230,000",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"53,000",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+"224,495",MONEY,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+Autonews,ORG,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+Magnus Walker,PERSON,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+Half-Year,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Around 1.1 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The First Half Of The Year,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Around 3.1 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+2025 Financial Year,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+Dr. Ing. H.C. F. Porsche Ag'S,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-realignment-product-strategy-40594.html
+America,GPE,1,1,https://www.motor1.com/news/760050/porsche-faces-trouble-evs-suvs/
+Pkw,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Kompakt- Und Mittelklasse,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Minis Und Kleinwagen,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+E-Auto-Datenbank,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+The Beginning Of The Decade,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+This Thursday,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Stefan Bratzel,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+The Center Of Automotive Management,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Bergisch Gladbach,GPE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Around 500 Million Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+400 Million Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The Executive Board For Finance And It,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The Second Half Of This Year,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+394 Million Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+1.12 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+V4Smart,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Last Weekend,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The Formula E,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+London,GPE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The Eu Commission'S,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+August 1,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The End Of April,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Around 1.3 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Ing. H.C. F. Porsche Ag,PERSON,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The First Six Months Of 2025,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+19.46 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+3.06 Billion Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Just A Few Years Ago,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The First Half Of 2025,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Around 200 Million Euros,MONEY,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Fahrzeuge & Fuhrpark,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Automotive-Messen & Veranstaltungen,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Nördlingen,GPE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Bavaria,GPE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+The End Of The Decade,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+2032,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+2028,DATE,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Oliver Zipse,PERSON,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+The European Union’S,ORG,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+More Than €10 Billion,MONEY,1,1,https://www.motor1.com/features/774899/bmw-toyota-right-engine-strategy/
+Newsletter Elektromobilität,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Iaa Mobility,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Oberklasse- Und Sportwagen,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Autonomes Fahren (,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Verkehrspolitik,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Formel E,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Ellwangen,GPE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+J.D. Power Apeal,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Frankfurt,GPE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Stellantis Nv,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Aston Martin Lagonda Global Holdings Plc,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Mercedes-Benz Group Ag,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Bmw Ag,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Billions Of Euros,MONEY,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Olaf Scholz,PERSON,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Thuringia,GPE,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Alternative Für Deutschland,ORG,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Japan,GPE,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Arno Antlitz,PERSON,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Daniela Cavallo,PERSON,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Ig Metall,ORG,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Cavallo,PERSON,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Few Months,DATE,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+V4Smart Gmbh,ORG,1,1,https://newsroom.porsche.com/en/2025/company/porsche-second-quarter-half-year-2025-financial-figures-40184.html
+Hamburg,GPE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Sweden,GPE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Renault Sa,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Mg,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Saic Motor Corp.,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Skoda,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Seat,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+July,DATE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Decades,DATE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+2018,DATE,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Jim Rowan,PERSON,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Volvo Cars,ORG,1,1,https://www.theguardian.com/business/article/2024/sep/04/volkswagen-has-a-year-maybe-two-to-turn-around-financial-chief-warns
+Volkswagen Ag’S,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Three Months,DATE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Five Years,DATE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Byd Co.,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Walen,PERSON,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+$26 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+$23.8 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+$353.6 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+324.7 Billion Euros,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+$351.0 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+E322.3 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+$289.6 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+E265.9 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+$20.8 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+E19.1 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Tesla Inc.,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Xpeng Inc.,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Recent Years,DATE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+The First Half,DATE,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Matthias Schmidt,PERSON,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Stellantis Nv'S,ORG,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+National Automobile Dealers Association,ORG,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Jeff Kommor,PERSON,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+The Detroit News,ORG,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Nada,ORG,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+New Orleans,GPE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Jefferies,ORG,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+Philippe Houchois,PERSON,1,1,https://fortune.com/europe/2024/09/30/volkswagen-second-profit-warning/
+The Past Few Years,DATE,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Rivian,ORG,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Third-Quarter,DATE,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Donald Trump,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+December 2024,DATE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Jim Walen,PERSON,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Jeep Ram,ORG,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Seattle,GPE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Sam Smith,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Union Investment,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Ola Källenius,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+The End Of This Decade,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+February 2024,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Late Last Year,DATE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+General Motors Co.,ORG,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Hogan,PERSON,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+The Pivotal Year,DATE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+January,DATE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Year-Over-Year,DATE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+The Last Two Years,DATE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+The Bumpy Year,DATE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Carlos Tavares,PERSON,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+$24.5 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+E22.5 Billion,MONEY,1,1,https://www.motortrend.com/news/volkswagen-2024-financial-results-us-regroup-plan
+Nextstar Energy,ORG,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Stuttgart,GPE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Sean Hogan,PERSON,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Los Angeles,GPE,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Kommor,PERSON,1,1,https://eu.detroitnews.com/story/business/autos/chrysler/2026/02/05/excuses-are-over-stellantis-tells-dealers-sales-must-grow-this-year/88513866007/
+Quarterly,DATE,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+$26.2 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+$2.2 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+$1.4 Billion,MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+"Up To $10,500",MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+"Up To $6,780",MONEY,1,1,https://www.motortrend.com/news/stellantis-26-billion-loss-future-plans
+Carl Benz,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+140 Years,DATE,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Nvidia,ORG,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Jensen Huang,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
+Roger Federer,PERSON,1,1,https://vision-mobility.de/en/news/profit-slump-at-mercedes-why-the-star-isnt-shining-very-brightly-right-now-389881.html?cmpscreencustom=
