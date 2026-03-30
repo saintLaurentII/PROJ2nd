@@ -196,4 +196,3 @@ therefore I cannot provide the owner of Jaguar Land Rover.
 - `automotive_kb.nt` (~70 MB, ~125,873 triples) and `train_full.txt` / `valid_full.txt` / `test_full.txt` are large files.  
   If they exceed GitHub's 100 MB file limit, use [Git LFS](https://git-lfs.com/) or upload them to an external host (Google Drive, Zenodo) and link them here.
 - Smaller splits `train_20k.txt`, `train_50k.txt` (and their valid/test counterparts) are included for reproducibility without Git LFS.
-
