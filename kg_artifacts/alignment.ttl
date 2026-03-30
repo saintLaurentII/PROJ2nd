@@ -1,0 +1,116 @@
+@prefix auto: <http://automotive-crisis.org/kb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+auto:Akio_Toyoda auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q418622 .
+
+auto:Audi a auto:Organization ;
+    rdfs:label "Audi"@en ;
+    rdfs:comment "Local definition: no confident Wikidata match found."@en .
+
+auto:BMW auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q26678 .
+
+auto:BYD auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q2608329 .
+
+auto:Carlos_Tavares auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q2939466 .
+
+auto:China auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q148 .
+
+auto:Ford auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q44294 .
+
+auto:France auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q142 .
+
+auto:General_Motors auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q81965 .
+
+auto:Germany auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q183 .
+
+auto:India auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q668 .
+
+auto:Jaguar auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q30055 .
+
+auto:Japan auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q17 .
+
+auto:Mercedes_Benz auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q36008 .
+
+auto:Nissan auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q270195 .
+
+auto:Ola_K_llenius auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q19297571 .
+
+auto:Oliver_Blume auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q101117735 .
+
+auto:Oliver_Zipse auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q20243418 .
+
+auto:Porsche auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q40993 .
+
+auto:Stellantis auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q97439162 .
+
+auto:Tata_Motors auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q188514 .
+
+auto:Tesla auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q478214 .
+
+auto:Toyota auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q53268 .
+
+auto:United_Kingdom auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q145 .
+
+auto:United_States auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q30 .
+
+auto:Volkswagen auto:alignmentConfidence "1.0"^^xsd:float ;
+    owl:sameAs wd:Q246 .
+
+auto:Volvo auto:alignmentConfidence "0.8"^^xsd:float ;
+    owl:sameAs wd:Q215293 .
+
+auto:build a owl:ObjectProperty ;
+    owl:equivalentProperty wdt:P176 .
+
+auto:describe a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P18 .
+
+auto:disclose a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P18 .
+
+auto:launch a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P1619 .
+
+auto:lose a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P1342 .
+
+auto:mirror a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P1382 .
+
+auto:ownBy a owl:ObjectProperty ;
+    owl:equivalentProperty wdt:P127 .
+
+auto:tell a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P1366 .
+
+auto:warn a owl:ObjectProperty ;
+    rdfs:subPropertyOf wdt:P1552 .
+

@@ -1,0 +1,35 @@
+# ── Web Crawling & Extraction ──────────────────────────────────────────────
+httpx>=0.27.0
+trafilatura>=1.12.0
+
+# ── NLP ────────────────────────────────────────────────────────────────────
+spacy>=3.7.0
+# After install, run: python -m spacy download en_core_web_trf
+
+# ── Data / Utilities ───────────────────────────────────────────────────────
+pandas>=2.0.0
+requests>=2.31.0
+
+# ── RDF / Knowledge Graph ──────────────────────────────────────────────────
+rdflib>=7.0.0
+SPARQLWrapper>=2.0.0
+
+# ── Ontology Reasoning (Session 3 — SWRL) ──────────────────────────────────
+owlready2>=0.46
+# Requires Java ≥ 11 for the Pellet reasoner
+
+# ── Knowledge Graph Embeddings (Session 3) ─────────────────────────────────
+torch>=2.2.0
+pykeen>=1.10.2
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# ── RAG / LLM Interface (Session 4) ────────────────────────────────────────
+# Requires Ollama running locally: https://ollama.com
+# Run: ollama pull gemma:2b
+
+# ── Notebook UI ────────────────────────────────────────────────────────────
+jupyter>=1.0.0
+ipywidgets>=8.1.0
+

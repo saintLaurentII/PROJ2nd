@@ -1,0 +1,51 @@
+# ── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ────────────────────────────────────────────────────
+.venv/
+env/
+venv/
+ENV/
+
+# ── Jupyter ─────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── PyKEEN / model artefacts ─────────────────────────────────────────────────
+# Keep metadata.json and results.json, but exclude large binary weights
+models/*/checkpoints/
+models/*/trained_model.pkl
+models/*/*.pth.tmp
+
+# ── Large data files (use Git LFS or external storage for these) ─────────────
+# automotive_kb.nt        # ~70 MB — consider Git LFS
+# train_full.txt          # large — consider Git LFS
+# Keep: train.txt, valid.txt, test.txt, train_20k.txt, etc.
+*.pdf
+notebook_*
+notebook_markdown/
+reports/
+
+# ── OS / Editor ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.idea/
+.vscode/settings.json
+
+# ── Temporary / patches ──────────────────────────────────────────────────────
+patch_*.py
+*.tmp
+*.log
+
+# ── Sensitive / local config ─────────────────────────────────────────────────
+.env
+*.key
